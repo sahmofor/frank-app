@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://54.227.85.209:8081/repository/liya-fe-releases/</url> 
+	      <url>http://54.82.22.121:8081/repository/Frank-fe-releases/</url> 
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.227.85.209:8081/repository/liya-fe-snapshots/</url>
+	      <url>http://54.82.22.121:8081/repository/Frank-fe-snapshots/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
